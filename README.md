@@ -1,7 +1,8 @@
 # ML-Data-Science-Projects
 A collection of recent Machine Learning/Data Science projects for my SRI Lab application. Hello Sven, Alex, and John! :)
 
-Table of Contents
+
+# Table of Contents
 
 timelinemakerv1.py - A timeline creation program that I created for the UCLA USAC (Undergraduate Student Association Council) Sustainability Committee. It takes in timeline data and constructs a timeline from the data, for use on websites and infographics. I designed the program to be runnable by non-tech-savvy folks!
 
