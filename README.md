@@ -1,5 +1,5 @@
 # ML-Data-Science-Projects
-A collection of recent Machine Learning/Data Science projects for my SRI Lab application
+A collection of recent Machine Learning/Data Science projects for my SRI Lab application. Hello Sven, Alex, and John! :)
 
 Table of Contents
 
