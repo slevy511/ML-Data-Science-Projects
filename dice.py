@@ -1,3 +1,8 @@
+# Please Note: The completed code is only accessible from my raspberry pi, which is in the IEEE Lab (I can get it and re-upload over the 
+# weekend if you would like to see it) - but in the meantime, here is the skeleton code to start off with. 
+# Additionally, here is the project spec: https://docs.google.com/document/d/1BYSRkk4XJyEzt4hoggX8cefwdziAlZhMkxHuSXIXavE/edit
+
+
 import cv2
 import numpy as np
 import RPi.GPIO as GPIO
