@@ -12,5 +12,5 @@ framingham.csv & weatherHistory.csv - data files used in the ML lab file above.
 
 Dice.py - A program for an IEEE "Pocket Racers" project in which I had to train my (work-in-progress) car to detect dice within its camera's field of view, and detect which side of the die (or dice) it is seeing. This was implemented using openCV and numPy, and can handle both colored and black-and-white dice.
 
-Classify.py - A program for an IEEE "Pocket Racers" project in which I had to train my (work-in-progress) car to detect certain signs within its camera's field of view (including a stop sign, a left arrow, right arrow, and forward arrow) and response accordingly by adjusting its direction and speed (or lack of speed, in the case of the stop sign). 
+Classify.py - A program for an IEEE "Pocket Racers" project in which I had to train my (work-in-progress) car to detect certain signs within its camera's field of view (including a stop sign, a left arrow, right arrow, and forward arrow) and response accordingly by adjusting its direction and speed (or lack of speed, in the case of the stop sign). This project was also implemented using openCV and numPy.
 
